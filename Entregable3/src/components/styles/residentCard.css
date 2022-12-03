@@ -84,27 +84,3 @@ background-color:green;
     position: relative;
     left: 0.8rem;
 }
-@media(max-width: 500px){
-
-.card__avatar{
-    width: 150px;
-    height: 150px;   
-    margin-top: 0px;
-
-}
-.card__body{
-    width: 150px;
-    height: 160px; 
-    font-size: 8px; 
-    margin-top: -114px;
-
-}
-
-.card__name{
-    font-size: 20px;
-}
-.card__circle-container{
-margin-top: -20px;
-}
-
-}
